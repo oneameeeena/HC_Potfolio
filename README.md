@@ -1,4 +1,5 @@
 # **HC Portfolio**
+A modern and responsive portfolio website showcasing premium car models from some of the most prestigious automotive brands.
 
 ### **A Project by Amina OUAQQA OU RAHO and Abdelaziz El Mossaoui**
 
